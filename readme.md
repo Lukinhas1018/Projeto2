@@ -6,4 +6,4 @@
 - Executar
 `python script.py`
 
-![]![alt text](image.png)
+![alt text](image.png)
